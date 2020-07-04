@@ -1,3 +1,9 @@
+We used the example project as a skeleton.
+
+
+
+
+
 This is a basic scala project that includes spark dependencies and necessary build-configuration to build a jar that can be submitted to a spark installation via spark-submit. In order to run this, you need to
 - install sbt
 - add scala plugin to your IDE of choice (in the following we describe this for Intellij)
